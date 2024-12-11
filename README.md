@@ -33,10 +33,10 @@
 ● Integrated Google Maps: Locate user place for deliver the product.</br>
 
 <p align="center">
-    <img src="El-DaanEl-3araby/1.webp" alt="Page 1" style="max-width: 100%; height: auto; margin: 10px; border-radius: 15px;">
-    <img src="El-DaanEl-3araby/2.webp" alt="Page 2" style="max-width: 100%; height: auto; margin: 10px; border-radius: 15px;">
-    <img src="El-DaanEl-3araby/3.webp" alt="Page 3" style="max-width: 100%; height: auto; margin: 10px; border-radius: 15px;">
-    <img src="El-DaanEl-3araby/4.webp" alt="Page 4" style="max-width: 100%; height: auto; margin: 10px; border-radius: 15px;">
+    <img src="El-DaanEl-3araby/1.webp" alt="Page 1" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
+    <img src="El-DaanEl-3araby/2.webp" alt="Page 2" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
+    <img src="El-DaanEl-3araby/3.webp" alt="Page 3" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
+    <img src="El-DaanEl-3araby/4.webp" alt="Page 4" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
 </p>
 
 <p>
@@ -50,10 +50,10 @@
 ● Application for menstrual cycle tracking. Increased user engagement by implementing interactive charts to visualize data related to menstrual cycles, moods, symptoms, and other health metrics.
 
 <p align="center">
-    <img src="Bnonisway/1.webp" alt="Page 1" style="max-width: 100%; height: 500px; margin: 10px; border-radius: 15px;">
-    <img src="Bnonisway/2.webp" alt="Page 2" style="max-width: 100%; height: 500px; margin: 10px; border-radius: 15px;">
-    <img src="Bnonisway/3.webp" alt="Page 3" style="max-width: 100%; height: 500px; margin: 10px; border-radius: 15px;">
-    <img src="Bnonisway/4.webp" alt="Page 4" style="max-width: 100%; height: 500px; margin: 10px; border-radius: 15px;">
+    <img src="Bnonisway/1.webp" alt="Page 1" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
+    <img src="Bnonisway/2.webp" alt="Page 2" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
+    <img src="Bnonisway/3.webp" alt="Page 3" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
+    <img src="Bnonisway/4.webp" alt="Page 4" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
 </p>
 
 <p>
@@ -67,10 +67,10 @@
 ● Application for menstrual cycle tracking. Increased user engagement by implementing interactive charts to visualize data related to menstrual cycles, moods, symptoms, and other health metrics.
 
 <p align="center">
-    <img src="Bnonisway-doctor/1.webp" alt="Page 1" style="max-width: 100%; height: 500px; margin: 10px; border-radius: 15px;">
-    <img src="Bnonisway-doctor/2.webp" alt="Page 2" style="max-width: 100%; height: 500px; margin: 10px; border-radius: 15px;">
-    <img src="Bnonisway-doctor/3.webp" alt="Page 3" style="max-width: 100%; height: 500px; margin: 10px; border-radius: 15px;">
-    <img src="Bnonisway-doctor/4.webp" alt="Page 4" style="max-width: 100%; height: 500px; margin: 10px; border-radius: 15px;">
+    <img src="Bnonisway-doctor/1.webp" alt="Page 1" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
+    <img src="Bnonisway-doctor/2.webp" alt="Page 2" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
+    <img src="Bnonisway-doctor/3.webp" alt="Page 3" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
+    <img src="Bnonisway-doctor/4.webp" alt="Page 4" style="max-width: 100%; height: 250px; margin: 10px; border-radius: 15px;">
 </p>
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.bnoniswaydoctors.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/bnoni-sway-doctors/id6479611039?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
