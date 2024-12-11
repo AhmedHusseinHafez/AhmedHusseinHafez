@@ -33,10 +33,10 @@
 ● Integrated Google Maps: Locate user place for deliver the product.</br>
 
 <p align="center">
-    <img src="El-DaanEl-3araby/1.webp" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
-    <img src="El-DaanEl-3araby/2.webp" alt="Page 2" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
-    <img src="El-DaanEl-3araby/3.webp" alt="Page 3" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
-    <img src="El-DaanEl-3araby/4.webp" alt="Page 4" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+    <img src="El-DaanEl-3araby/1.webp" alt="Page 1" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="El-DaanEl-3araby/2.webp" alt="Page 2" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="El-DaanEl-3araby/3.webp" alt="Page 3" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="El-DaanEl-3araby/4.webp" alt="Page 4" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
 </p>
 
 <p>
