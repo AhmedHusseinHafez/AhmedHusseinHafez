@@ -103,6 +103,28 @@ A Flutter application for Dashboard adaptive for different screen sizes (mobile-
 
 <hr>
 
+<h2> Graduation Project </h2>
+
+### Smart-Home-Automation
+
+We have developed an application to simulate a real home system. Through this Application, you can control all the lighting devices in your home, and you can also control many electrical devices such as (fan). Through this program, you can also know the temperature of the house that is sensed by the sensor that we placed in the house. Using Arduino, and also in the home system, there is a water sensor through which the umbrella can be closed to protect the house from rain automatically. The program has a protection system through which you can lock all the doors and ports of the house, and you can also close all electrical appliances, all of this remotely, so you can do it while you are not there. The house has many features as well, but this is in brief</br>
+
+● firebase realtime database
+● Arduino
+● bloc state management
+● shared preferences
+● animated splash screen
+
+<p align="center">
+    <img src="GraduationProject/2.jpg" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+    <img src="GraduationProject/1.jpg" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+    <img src="GraduationProject/3.jpg" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+</p>
+<p>
+ <a href="https://github.com/AhmedHusseinHafez/Graduation-Project-Smart-Home-Automation-" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Get%20it%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /><p>
+
+<hr>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhusseinhafez&show_icons=true&locale=en&layout=compact" alt="ahmedhusseinhafez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhusseinhafez&" alt="ahmedhusseinhafez" /></p>
