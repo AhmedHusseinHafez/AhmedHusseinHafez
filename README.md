@@ -103,22 +103,55 @@ A Flutter application for Dashboard adaptive for different screen sizes (mobile-
 
 <hr>
 
+<h2> Activties </h2>
+
+### La-Vie-Orange-Flutter-Hackathon
+
+🌿 Plant Encyclopedia: Search through an extensive database of plants. Find detailed information on care instructions, growth habits, and more.
+
+🌱 Community Hub: Join a thriving community of plant lovers. Share your experiences, ask for advice, and connect with fellow enthusiasts.
+
+🔧 Tools & Resources: Access a curated selection of gardening tools and supplies to help your plants thrive.
+
+📚 Expert Advice: Get tips and recommendations from horticulture experts. Stay updated with the latest trends and techniques in gardening.
+
+<p align="center">
+    <img src="LaVie/1.png" alt="Page 1" style="max-width: 100%; height: 400px; margin: 10px; border-radius: 25px;">
+    <img src="LaVie/2.png" alt="Page 1" style="max-width: 100%; height: 400px; margin: 10px; border-radius: 25px;">
+</p>
+<p>
+ <a href="https://github.com/AhmedHusseinHafez/La-Vie-Orange-Flutter-Hackathon" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Get%20it%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /><p>
+<hr>
+
+### CarControlleWithBluetoothApp
+
+The aim of this project is to design and manufacture a prototype for a car chassis with steering and braking. This prototype is the scaled-down model for the full-scale chassis which will participate in the racing Aeolus competition in Den Helder, the Netherlands in August 2023. The winning team of the Machine Elements Design Fall 2022 competition will join the ASUWind team and build the full-scale car based on their winning designs. More information about the competition can be found in the following link:( https://www.racingaeolus.online/ )
+
+<p align="center">
+    <img src="CarControlleWithBluetoothApp/2.png" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+    <img src="CarControlleWithBluetoothApp/1.jpg" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+    <img src="CarControlleWithBluetoothApp/3.jpg" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+</p>
+<p>
+ <a href="https://github.com/AhmedHusseinHafez/CarControlleWithBluetoothApp?tab=readme-ov-file" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Get%20it%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /><p>
+<hr>
+
 <h2> Graduation Project </h2>
 
 ### Smart-Home-Automation
 
 We have developed an application to simulate a real home system. Through this Application, you can control all the lighting devices in your home, and you can also control many electrical devices such as (fan). Through this program, you can also know the temperature of the house that is sensed by the sensor that we placed in the house. Using Arduino, and also in the home system, there is a water sensor through which the umbrella can be closed to protect the house from rain automatically. The program has a protection system through which you can lock all the doors and ports of the house, and you can also close all electrical appliances, all of this remotely, so you can do it while you are not there. The house has many features as well, but this is in brief</br>
 
-● firebase realtime database
-● Arduino
-● bloc state management
-● shared preferences
-● animated splash screen
+● firebase realtime database</br>
+● Arduino</br>
+● bloc state management</br>
+● shared preferences</br>
+● animated splash screen</br>
 
 <p align="center">
     <img src="GraduationProject/2.jpg" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
     <img src="GraduationProject/1.jpg" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
-    <img src="GraduationProject/3.jpg" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+    <img src="GraduationProject/3.jpg" alt="Page 1" style="max-width: 100%; width: 600px ; height: 320px; margin: 10px; border-radius: 25px;">
 </p>
 <p>
  <a href="https://github.com/AhmedHusseinHafez/Graduation-Project-Smart-Home-Automation-" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Get%20it%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /><p>
