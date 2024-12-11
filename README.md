@@ -75,6 +75,34 @@
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.bnoniswaydoctors.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/bnoni-sway-doctors/id6479611039?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
+<hr>
+
+<h2> Samples from my random projects </h2>
+
+### MVVM_GetX
+
+A Flutter application structured using the MVVM (Model-View-ViewModel) architecture pattern, leveraging GetX for state management, dependency injection, and routing. This architecture ensures a clean separation of concerns, scalability, and maintainability.
+
+<p align="center">
+    <img src="MVVM_GetX/1.png" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+</p>
+<p>
+ <a href="https://github.com/AhmedHusseinHafez/MVVM_GetX" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Get%20it%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /><p>
+
+<hr>
+
+### Dynamic Dashboard
+
+A Flutter application for Dashboard adaptive for different screen sizes (mobile-tablet-pc).
+
+<p align="center">
+    <img src="Dynamic_Dashboard/responsivedashboard.webp" alt="Page 1" style="max-width: 100%; height: 320px; margin: 10px; border-radius: 25px;">
+</p>
+<p>
+ <a href="https://github.com/AhmedHusseinHafez/Dynamic_Dashboard" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Get%20it%20on%20github-black.svg?style=for-the-badge&logo=github&logoColor=white" /><p>
+
+<hr>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhusseinhafez&show_icons=true&locale=en&layout=compact" alt="ahmedhusseinhafez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhusseinhafez&" alt="ahmedhusseinhafez" /></p>
