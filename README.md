@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Mobile Developer**
 
-- 🌱 I’m currently learning **SwiftUI, UIKit**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **Flutter,Dart**
 
