@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Ahmed11h62@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/19b7K2sEMRC8C9PGUaJt1AcTe18Nnk--0/view?usp=sharing]([https://drive.google.com/file/d/1ogxWhkT7roew_lqUv7pzA4JzSS3etkMI/view?usp=sharing](https://drive.google.com/file/d/1ogxWhkT7roew_lqUv7pzA4JzSS3etkMI/view?usp=sharing))](https://drive.google.com/file/d/19b7K2sEMRC8C9PGUaJt1AcTe18Nnk--0/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/19b7K2sEMRC8C9PGUaJt1AcTe18Nnk--0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
