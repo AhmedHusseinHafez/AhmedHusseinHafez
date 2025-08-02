@@ -26,6 +26,28 @@
 
 <h2> Samples from my Live projects </h2>
 
+
+### Baytostay
+● Led development of Baytostay, a production-ready rental platform on Play Store &
+  App Store.</br>
+● Designed app architecture: state management, API integration, WS, CI/CD, and
+scalable components.</br>
+● Implemented Google Maps, push notifications, and secure local storage.</br>
+● Mentored junior developer and optimized performance based on user feedback.</br>
+
+<p align="center">
+    <img src="Baytostay/1.webp" alt="Page 1" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="Baytostay/2.webp" alt="Page 2" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="Baytostay/3.webp" alt="Page 3" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="Baytostay/4.webp" alt="Page 4" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+</p>
+
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.runsoft.bay_to_stay" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/bay-to-stay/id6743452055" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+
 ### El-Daan El-3araby | الضأن العربي
 
 ● Built simplifies the process of acquiring sacrificial animals for religious festivals. This easy-to-use mobile application allows you to browse, select, and purchase high-quality livestock directly from your phone.</br>
@@ -41,6 +63,22 @@
 
 <p>
  <a href="https://play.google.com/store/apps/details?id=com.arabic.mutton&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D8%A7%D9%84%D8%B6%D8%A3%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/id6544789369" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### Wjhatk
+● Developed the mobile frontend for Wjhtak, an innovative platform linking
+tourism companies with customers.</br>
+
+<p align="center">
+    <img src="wjhatk/1.webp" alt="Page 1" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="wjhatk/2.webp" alt="Page 2" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="wjhatk/3.webp" alt="Page 3" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+    <img src="wjhatk/4.webp" alt="Page 4" style="max-width: 100%; height: 350px; margin: 10px; border-radius: 25px;">
+</p>
+
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.wjhtak.app&hl=en" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D9%88%D8%AC%D9%87%D8%AA%D9%83/id6590636750" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
