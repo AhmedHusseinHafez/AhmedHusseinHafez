@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter,Dart**
 
-- 📫 How to reach me **ahmedhusainhafez@gmail.com**
+- 📫 How to reach me **ahmedhusseinhafezamin@gmail.com**
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ITT0VhWFX6i4g72mjk1G_MX5PFDW8i4m/view?usp=sharing)
 
